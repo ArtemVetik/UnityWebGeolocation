@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.agava.webgeolocation": {
-      "version": "file:com.agava.webutility",
+      "version": "file:com.agava.webgeolocation",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
